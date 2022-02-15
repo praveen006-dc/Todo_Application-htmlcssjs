@@ -30,7 +30,7 @@ html, body {
 }
 
 .container header .add button {
-    background: blue;
+    background: green;
     border: none;
     color: white;
     font-size: 20px;
